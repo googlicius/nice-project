@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "705357934804",
+    "firebase_url": "https://niceproject-3155a.firebaseio.com",
+    "project_id": "niceproject-3155a",
+    "storage_bucket": "niceproject-3155a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705357934804:android:185bbc766d3c7798",
+        "android_client_info": {
+          "package_name": "com.pax.nice_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705357934804-bkm1igqmqi9taoa2fpccsck6a98t0up7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pax.nice_project",
+            "certificate_hash": "8c553a3cdd00ca4652fb7d62b729c356742e35aa"
+          }
+        },
+        {
+          "client_id": "705357934804-eeo6r4fn1lrjrsi3satb12od37l0780o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFjl3-CKnT32ED448sQtxfAR2pWazdVqA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705357934804-eeo6r4fn1lrjrsi3satb12od37l0780o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
