@@ -8,17 +8,17 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:705357934804:android:185bbc766d3c7798",
+        "mobilesdk_app_id": "1:705357934804:android:60cc10ad049befef",
         "android_client_info": {
-          "package_name": "com.pax.nice_project"
+          "package_name": "com.niceproject"
         }
       },
       "oauth_client": [
         {
-          "client_id": "705357934804-bkm1igqmqi9taoa2fpccsck6a98t0up7.apps.googleusercontent.com",
+          "client_id": "705357934804-p4re3pr646uku8q5shalv7p790q0a2bh.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.pax.nice_project",
+            "package_name": "com.niceproject",
             "certificate_hash": "8c553a3cdd00ca4652fb7d62b729c356742e35aa"
           }
         },
