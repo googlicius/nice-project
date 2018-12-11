@@ -1,35 +1,35 @@
 {
   "project_info": {
-    "project_number": "705357934804",
-    "firebase_url": "https://niceproject-3155a.firebaseio.com",
-    "project_id": "niceproject-3155a",
-    "storage_bucket": "niceproject-3155a.appspot.com"
+    "project_number": "700968846135",
+    "firebase_url": "https://niceproject-7a71f.firebaseio.com",
+    "project_id": "niceproject-7a71f",
+    "storage_bucket": "niceproject-7a71f.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:705357934804:android:60cc10ad049befef",
+        "mobilesdk_app_id": "1:700968846135:android:60cc10ad049befef",
         "android_client_info": {
           "package_name": "com.niceproject"
         }
       },
       "oauth_client": [
         {
-          "client_id": "705357934804-p4re3pr646uku8q5shalv7p790q0a2bh.apps.googleusercontent.com",
+          "client_id": "700968846135-sf1et972pi9l0e2i8g1o76fv3tt0e4t0.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.niceproject",
-            "certificate_hash": "8c553a3cdd00ca4652fb7d62b729c356742e35aa"
+            "certificate_hash": "49232528a37e638885d7ac45f55e9f5a72e865d8"
           }
         },
         {
-          "client_id": "705357934804-eeo6r4fn1lrjrsi3satb12od37l0780o.apps.googleusercontent.com",
+          "client_id": "700968846135-ukcri68toj0e72snsvdo3ek0f37q50kk.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBFjl3-CKnT32ED448sQtxfAR2pWazdVqA"
+          "current_key": "AIzaSyB9wFOO36VuMhZkQs5dlTfVCSbTKW3Fz8E"
         }
       ],
       "services": {
@@ -40,7 +40,7 @@
           "status": 2,
           "other_platform_oauth_client": [
             {
-              "client_id": "705357934804-eeo6r4fn1lrjrsi3satb12od37l0780o.apps.googleusercontent.com",
+              "client_id": "700968846135-ukcri68toj0e72snsvdo3ek0f37q50kk.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

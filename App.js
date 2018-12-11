@@ -18,7 +18,7 @@ const instructions = Platform.select({
 });
 
 GoogleSignin.configure({
-  // scopes: ['email', 'profiles'], // what API you want to access on behalf of the user, default is email and profile
+  scopes: ['email', 'profile'], // what API you want to access on behalf of the user, default is email and profile
   webClientId: '504158490440-rkgbul7isd52epclosuonr5lanan261k.apps.googleusercontent.com', // client ID of type WEB for your server (needed to verify user ID and offline access)
 });
 
